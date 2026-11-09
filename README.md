@@ -1,8 +1,8 @@
-# UpaJardimPetropolis
+# Descubra sua equipe
 Trabalho academico
 
 
-# 🏘️ Jardim Petrópolis — Consulta de Equipe
+# 🏘️ Jardim Petrópolis — Consulta de Equipe (base de teste)
 
 Aplicação pública para consultar a qual equipe um endereço pertence no Jardim Petrópolis, Betim - MG.
 
